@@ -16,7 +16,7 @@ client.on('ready', async () => {
         .setType('STREAMING')
         .setURL('https://twitch.tv/apgrgt')
         .setState('Check my SocialMedia')
-        .setName('APGR')
+        .setName('24/7')
         .setDetails('AnonymousPlaysGR')
         .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1140101823227773040/1171746862726909972/standard_7.gif?ex=6582b74e&is=6570424e&hm=e91a69d0c288fc27517532c0e35101e2317d253b2deb977df3ce43b498b6b42d&')
         .setAssetsLargeText('APGR')
