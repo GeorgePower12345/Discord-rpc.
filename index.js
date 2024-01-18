@@ -13,8 +13,8 @@ client.on('ready', async () => {
 
     const r = new Discord.RichPresence()
         .setApplicationId('1099642415754776628')
-        .setType('PLAYING')
-        .setURL('https://www.youtube.com/channel/UCYvGMEkXftp8u6El8HyVayw')
+        .setType('STREAMING')
+        .setURL('https://twitch.tv/apgrgt')
         .setState('24/7 Online & Support')
         .setName('AnonymousPlaysGR')
         .setDetails('Check my SocialMedia')
