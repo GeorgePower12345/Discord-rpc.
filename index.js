@@ -19,9 +19,9 @@ client.on('ready', async () => {
         .setName('24/7')
         .setDetails('AnonymousPlaysGR')
         .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1140101823227773040/1171746862726909972/standard_7.gif?ex=6582b74e&is=6570424e&hm=e91a69d0c288fc27517532c0e35101e2317d253b2deb977df3ce43b498b6b42d&')
-        .setAssetsLargeText('APGR')
+        .setAssetsLargeText('24/7')
         .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1101758417720328203.webp?size=96&quality=lossless')
-        .setAssetsSmallText('APGR')
+        .setAssetsSmallText('24/7')
         .addButton('Yt Channel', 'https://youtube.com/@apgr.?si=xaA3E784XL5HUu-V')
         .addButton('Twitter (𝕏) ', 'https://x.com/FortniteAPGR?t=UDJYgTstYkjhpAeX_2T7cg&s=09');
 
