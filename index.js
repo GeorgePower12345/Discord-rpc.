@@ -15,7 +15,7 @@ client.on('ready', async () => {
         .setApplicationId('1099642415754776628')
         .setType('PLAYING')
         .setURL('https://www.youtube.com/channel/UCYvGMEkXftp8u6El8HyVayw')
-        .setState('APGR')
+        .setState('24/7 Online & Support')
         .setName('AnonymousPlaysGR')
         .setDetails('Check my SocialMedia')
         .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1140101823227773040/1171746862726909972/standard_7.gif?ex=6582b74e&is=6570424e&hm=e91a69d0c288fc27517532c0e35101e2317d253b2deb977df3ce43b498b6b42d&')
@@ -26,7 +26,7 @@ client.on('ready', async () => {
         .addButton('Twitter (𝕏) ', 'https://x.com/FortniteAPGR?t=UDJYgTstYkjhpAeX_2T7cg&s=09');
 
     client.user.setActivity(r);
-    client.user.setPresence({ status: 'dnd' });
+    client.user.setPresence({ status: 'idle' });
 });
 
 client.login(process.env.TOKEN);
